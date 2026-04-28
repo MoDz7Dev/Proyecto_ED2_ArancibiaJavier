@@ -1,0 +1,19 @@
+{
+  "nombre_servicio": "Hospital 10 de Octubre",
+  "cola_normal": [],
+  "cola_prioritaria": [],
+  "historial_pila": [
+    {
+      "numero": "T-001",
+      "nombre": "Hola",
+      "prioritario": false
+    },
+    {
+      "numero": "T-002",
+      "nombre": "Juan",
+      "prioritario": false
+    }
+  ],
+  "contador_normal": 2,
+  "contador_prioritario": 0
+}
