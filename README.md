@@ -30,13 +30,13 @@ Cada producto es un **nodo** del árbol. El árbol se ordena por el **nombre del
 ### Operaciones implementadas
 
 | Operación | Descripción |
-|---|---|---|
-| `insertar` | Agrega un producto en su posición correcta
-| `buscar` | Encuentra un producto por nombre 
-| `eliminar` | Elimina un producto (3 casos) 
-| `listar` | Recorrido inorden → orden alfabético 
-| `buscar_por_categoria` | Filtra productos por categoría 
-| `actualizar_stock` | Modifica el stock de un producto 
+|---|---|
+| `insertar` | Agrega un producto en su posición correcta |
+| `buscar` | Encuentra un producto por nombre |
+| `eliminar` | Elimina un producto (3 casos) |
+| `listar` | Recorrido inorden → orden alfabético |
+| `buscar_por_categoria` | Filtra productos por categoría |
+| `actualizar_stock` | Modifica el stock de un producto |
 
 ### Recorrido Inorden
 
